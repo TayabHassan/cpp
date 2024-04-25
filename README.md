@@ -1,1 +1,1 @@
-c++ practice for basic concepts
+c++ practice for basic concepts to better your language
